@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+header{
+    display: flex;
+    gap: 50px;
+    color: blue;
+}
+nav{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+h2{
+    text-align: center;
+    color: red;
+}
